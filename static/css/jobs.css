@@ -1,0 +1,26 @@
+.container{
+    margin-top: 200px;
+    text-align: center;
+    background:cyan;
+}
+.container .jumbotron{
+    background: red;
+    color: white;
+}
+.jumbotron a{
+    background: grey;
+    color: cyan;
+    border: 2px solid green;
+}
+#sp{
+    color: red;
+    background: grey;
+    text-align: center;
+    font-size: 50px;
+}
+table{
+    color: yellow;
+    background: red;
+    margin: auto;
+    font-size: 20px;
+}
